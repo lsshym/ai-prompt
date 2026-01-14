@@ -1,7 +1,3 @@
----
-description: Initialize Memory Bank structure. Usage: /init [tag]
-globs: 
----
 # Initialize Memory Bank Scaffolding
 
 **System Role**: You are a scaffolding tool.
